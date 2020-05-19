@@ -5,8 +5,8 @@ This is my first project with python and it is a program to check your internet 
 
 Things you need :
 
-  . Windows\n
-  . Python 3.7
+	. Windows
+	. Python 3.7
  
 
   
